@@ -1,0 +1,26 @@
+{
+  "itemIds": [
+    2711946,
+    2711945,
+    2711944
+  ],
+  "items": [
+    {
+      "additionalPackagingWeight": "",
+      "additionalShippingFee": 1199,
+      "ean": "3608409871138",
+      "itemDimension": {
+        "height": 1,
+        "length": 1,
+        "width": 1
+      },
+      "itemId": 2711944,
+      "itemName": "Triban RC 120 Cycle Touring Road Bike",
+      "itemPrice": 36999,
+      "itemQty": 1,
+      "itemWeight": 15.2,
+      "type": "product"
+    }
+  ],
+  "postalCode": "603103"
+}
